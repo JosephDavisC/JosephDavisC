@@ -38,9 +38,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=joechamdani&show_icons=true&theme=tokyonight)
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephDavisC&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joechamdani&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephDavisC&layout=compact&theme=tokyonight)
 
 ---
 
