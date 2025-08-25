@@ -66,6 +66,7 @@
 ---
 
 ### 📫 Let’s Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/joseph-chamdani)  
-- 🌐 [Portfolio](https://joechamdani.com)  
-- ✉️ [Email Me](mailto:joseph.chamdani@gmail.com)  
+- 💼 <a href="https://linkedin.com/in/joseph-chamdani" target="_blank">LinkedIn</a>  
+- 🌐 <a href="https://joechamdani.com" target="_blank">Portfolio</a>  
+- ✉️ <a href="mailto:joseph.chamdani@gmail.com" target="_blank">Email Me</a>  
+
