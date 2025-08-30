@@ -2,18 +2,20 @@
 
 # 👋 Hi, I’m Joseph Davis Chamdani  
 
-<a href="https://linkedin.com/in/joseph-chamdani" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://joechamdani.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-joechamdani.com-6f42c1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://instagram.com/josephdavisc" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://orcid.org/0009-0003-3880-8443" target="_blank">
-  <img src="https://img.shields.io/badge/ORCID-0009--0003--3880--8443-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-</a>
+<p>
+  <a href="https://linkedin.com/in/joseph-chamdani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://joechamdani.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-joechamdani.com-6f42c1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://instagram.com/josephdavisc" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://orcid.org/0009-0003-3880-8443" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0003--3880--8443-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+</p>
 
 
 **Informatics @ University of Washington | AI Engineer @ Sector - CyberSecurity**  
