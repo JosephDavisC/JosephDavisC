@@ -11,6 +11,9 @@
 <a href="https://instagram.com/josephdavisc" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+<a href="https://orcid.org/0009-0003-3880-8443" target="_blank">
+  <img src="https://img.shields.io/badge/ORCID-0009--0003--3880--8443-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+</a>
 
 
 **Informatics @ University of Washington | AI Engineer @ Sector - CyberSecurity**  
