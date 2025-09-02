@@ -27,16 +27,21 @@
 ### 🌟 About Me
 - 🎓 Junior at **University of Washington** (Informatics, Data Science focus)  
 - 💡 Passionate about **AI, Data Analytics, Full-Stack Development, and Cybersecurity**  
-- 🌍 Originally from Jakarta, Indonesia 🇮🇩 → now in Seattle, WA  
+- 🌍 Originally from Jakarta, Indonesia 🇮🇩 → now in Seattle, WA 🇺🇸
 - 🎾 Tennis Player & ☕ Coffee Lover  
 
 ---
 
 ### 🚀 Projects
-- 🔎 **Stockbit Internship (AI Engineer)** – built OCR pipeline + AutoML model for fraud detection in KYC process  
-- 🤖 **Jam.AI** – GPT-powered diabetes assistant (UWB Hacks AI Hackathon)  
-- 🌐 **joechamdani.com** – personal portfolio built with React, Tailwind, Framer Motion  
-- 🎮 **VR Park Internship** – co-developed *Dino Marine VR* using Unity & C#  
+
+- 🔎 **[Website-Portfolio](https://github.com/JosephDavisC/Website-Portfolio)** – Personal portfolio website showcasing background, projects, and certifications (React, TypeScript, Tailwind, Framer Motion)  
+- 💾 **[DevNet_SQL_Project](https://github.com/JosephDavisC/DevNet_SQL_Project)** – Windows desktop app with C# + MySQL (Database Design & Programming Term 4 project)  
+- 🎮 **[DungeonDweller](https://github.com/JosephDavisC/DungeonDweller)** – Console-based C++ adventure game (Database Design & Programming Term 2 project)  
+- 🏋️ **[WOTRACKER](https://github.com/JosephDavisC/WOTRACKER)** – Workout Tracker built in C++ (Grade 10 Global Citizenship project)  
+- 🤖 **[Jam.AI](https://github.com/JosephDavisC/Jam.AI)** – GPT-powered diabetes health assistant (UWB Hacks AI Hackathon)  
+- 🕹️ **VR Park Internship** – Co-developed *Dino Marine VR* using Unity & C# (multiplayer VR theme park game)  
+- 🏦 **Stockbit Internship (AI Engineer)** – Built OCR pipeline + AutoML model for fraud detection in KYC process  
+
 
 ---
 
