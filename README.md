@@ -34,7 +34,8 @@
 
 ### 🚀 Projects
 
-- 🔎 **[Website-Portfolio](https://github.com/JosephDavisC/Website-Portfolio)** – Personal portfolio website showcasing background, projects, and certifications (React, TypeScript, Tailwind, Framer Motion)  
+- 🔎 **[Website-Portfolio](https://github.com/JosephDavisC/Website-Portfolio)** – Personal portfolio website showcasing background, projects, and certifications (React, TypeScript, Tailwind, Framer Motion)
+- ☕️ **[Coffee-Shop](https://github.com/JosephDavisC/Coffee-Shop)** – A modern coffee shop web app built with Next.js 15 (App Router), Supabase, and Stripe.
 - 💾 **[DevNet_SQL_Project](https://github.com/JosephDavisC/DevNet_SQL_Project)** – Windows desktop app with C# + MySQL (Database Design & Programming Term 4 project)  
 - 🎮 **[DungeonDweller](https://github.com/JosephDavisC/DungeonDweller)** – Console-based C++ adventure game (Database Design & Programming Term 2 project)  
 - 🏋️ **[WOTRACKER](https://github.com/JosephDavisC/WOTRACKER)** – Workout Tracker built in C++ (Grade 10 Global Citizenship project)  
