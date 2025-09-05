@@ -34,7 +34,7 @@
 
 ### 🚀 Projects
 
-- 🔎 **[Website-Portfolio](https://github.com/JosephDavisC/Website-Portfolio)** – Personal portfolio website showcasing background, projects, and certifications (React, TypeScript, Tailwind, Framer Motion)
+- 🔎 **[Portfolio-Website](https://github.com/JosephDavisC/Portfolio-Website)** – Personal portfolio website showcasing background, projects, and certifications (React, TypeScript, Tailwind, Framer Motion)
 - ☕️ **[Coffee-Shop](https://github.com/JosephDavisC/Coffee-Shop)** – A modern coffee shop web app built with Next.js 15 (App Router), Supabase, and Stripe.
 - 💾 **[DevNet_SQL_Project](https://github.com/JosephDavisC/DevNet_SQL_Project)** – Windows desktop app with C# + MySQL (Database Design & Programming Term 4 project)  
 - 🎮 **[DungeonDweller](https://github.com/JosephDavisC/DungeonDweller)** – Console-based C++ adventure game (Database Design & Programming Term 2 project)  
@@ -75,9 +75,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Joseph's GitHub stats](https://github-readme-stats-xi-liart-62.vercel.app/api?username=JosephDavisC&show_icons=true&theme=tokyonight&cache_seconds=63)  
+![Joseph's GitHub stats](https://github-readme-stats-xi-liart-62.vercel.app/api?username=JosephDavisC&show_icons=true&theme=tokyonight&cache_seconds=64)  
 
-![Top Langs](https://github-readme-stats-xi-liart-62.vercel.app/api/top-langs/?username=JosephDavisC&layout=compact&theme=tokyonight&cache_seconds=63)  
+![Top Langs](https://github-readme-stats-xi-liart-62.vercel.app/api/top-langs/?username=JosephDavisC&layout=compact&theme=tokyonight&cache_seconds=64)  
 
 ---
 
