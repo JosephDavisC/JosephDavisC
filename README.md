@@ -40,8 +40,6 @@
 - 🎮 **[DungeonDweller](https://github.com/JosephDavisC/DungeonDweller)** – Console-based C++ adventure game (Database Design & Programming Term 2 project)  
 - 🏋️ **[WOTRACKER](https://github.com/JosephDavisC/WOTRACKER)** – Workout Tracker built in C++ (Grade 10 Global Citizenship project)  
 - 🤖 **[Jam.AI](https://github.com/JosephDavisC/Jam.AI)** – GPT-powered diabetes health assistant (UWB Hacks AI Hackathon)  
-- 🕹️ **VR Park Internship** – Co-developed *Dino Marine VR* using Unity & C# (multiplayer VR theme park game)  
-- 🏦 **Stockbit Internship (AI Engineer)** – Built OCR pipeline + AutoML model for fraud detection in KYC process  
 
 
 ---
