@@ -38,7 +38,7 @@
 - ☕️ **[Coffee-Shop](https://github.com/JosephDavisC/Coffee-Shop)** – Built with Next.js + Stripe to simulate real-world order + payments system.
 - 💾 **[DevNet_SQL_Project](https://github.com/JosephDavisC/DevNet_SQL_Project)** – Windows desktop app with C# + MySQL (Database Design & Programming Term 4 project)  
 - 🎮 **[DungeonDweller](https://github.com/JosephDavisC/DungeonDweller)** – Console-based C++ adventure game (Database Design & Programming Term 2 project)  
-- 🏋️ **[WOTRACKER](https://github.com/JosephDavisC/WOTRACKER)** – Workout Tracker built in C++ (Grade 10 Global Citizenship project)  
+- 🏋️ **[Document-Cropper-OCR](https://github.com/JosephDavisC/Document-Cropper-OCR)** – A simple document cropper + OCR web app built with OpenCV, FastAPI, and Tesseract/EasyOCR. Topics
 - 🤖 **[Jam.AI](https://github.com/JosephDavisC/Jam.AI)** – GPT-powered diabetes health assistant (UWB Hacks AI Hackathon)  
 
 
