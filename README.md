@@ -74,9 +74,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Joseph's GitHub stats](https://github-readme-stats-xi-liart-62.vercel.app/api?username=JosephDavisC&show_icons=true&theme=tokyonight&cache_seconds=63)  
+![Joseph's GitHub stats](https://github-readme-stats-xi-liart-62.vercel.app/api?username=JosephDavisC&show_icons=true&theme=tokyonight&cache_seconds=64)  
 
-![Top Langs](https://github-readme-stats-xi-liart-62.vercel.app/api/top-langs/?username=JosephDavisC&layout=compact&theme=tokyonight&cache_seconds=63)  
+![Top Langs](https://github-readme-stats-xi-liart-62.vercel.app/api/top-langs/?username=JosephDavisC&layout=compact&theme=tokyonight&cache_seconds=64)  
 
 ---
 
