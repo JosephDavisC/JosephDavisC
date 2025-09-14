@@ -82,6 +82,6 @@
 
 ### 📫 Let’s Connect!
 - 💼 <a href="https://linkedin.com/in/joseph-chamdani" target="_blank">LinkedIn</a>  
-- ✉️ jchamd@uw.edu
+- ✉️ jchamd@uw.edu | joseph.chamdani@gmail.com
 
 
