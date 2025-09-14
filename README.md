@@ -32,15 +32,16 @@
 
 ---
 
+---
+
 ### 🚀 Projects
 
-- 🔎 **[Portfolio-Website](https://github.com/JosephDavisC/Portfolio-Website)** – Personal portfolio website showcasing background, projects, and certifications (React, TypeScript, Tailwind, Framer Motion)
-- ☕️ **[Coffee-Shop](https://github.com/JosephDavisC/Coffee-Shop)** – Built with Next.js + Stripe to simulate real-world order + payments system.
-- 💾 **[DevNet_SQL_Project](https://github.com/JosephDavisC/DevNet_SQL_Project)** – Windows desktop app with C# + MySQL (Database Design & Programming Term 4 project)  
-- 🎮 **[DungeonDweller](https://github.com/JosephDavisC/DungeonDweller)** – Console-based C++ adventure game (Database Design & Programming Term 2 project)  
-- 🏋️ **[Document-Cropper-OCR](https://github.com/JosephDavisC/Document-Cropper-OCR)** – A simple document cropper + OCR web app built with OpenCV, FastAPI, and Tesseract/EasyOCR. Topics
-- 🤖 **[Jam.AI](https://github.com/JosephDavisC/Jam.AI)** – GPT-powered diabetes health assistant (UWB Hacks AI Hackathon)  
-
+- 🌐 **[Portfolio-Website](https://github.com/JosephDavisC/Portfolio-Website)** – My personal portfolio website showcasing background, projects, and certifications (React, TypeScript, Tailwind, Framer Motion).  
+- ☕️ **[Coffee-Shop](https://github.com/JosephDavisC/Coffee-Shop)** – A modern coffee shop app with Next.js 15, Supabase, and Stripe (order ahead, checkout, admin dashboard).  
+- 💾 **[DevNet_SQL_Project](https://github.com/JosephDavisC/DevNet_SQL_Project)** – Windows desktop app with C# + MySQL (final project for Database Design & Programming Term 4).  
+- 🤖 **[Jam.AI](https://github.com/JosephDavisC/Jam.AI)** – GPT-powered diabetes health assistant (UWB Hacks AI Hackathon project).  
+- 📝 **[Document-Cropper-OCR](https://github.com/JosephDavisC/Document-Cropper-OCR)** – A simple document cropper + OCR web app built with OpenCV, FastAPI, and Tesseract/EasyOCR.  
+- 🔎 **[ASR-Runner](https://github.com/JosephDavisC/ASR-Runner)** – Lightweight Attack Surface Reconnaissance runner in Go, wrapping Subfinder, HTTPX, and Katana.  
 
 ---
 
