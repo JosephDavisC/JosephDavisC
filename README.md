@@ -41,7 +41,7 @@
 - 💾 **[DevNet_SQL_Project](https://github.com/JosephDavisC/DevNet_SQL_Project)** – Windows desktop app with C# + MySQL (final project for Database Design & Programming Term 4).  
 - 🤖 **[Jam.AI](https://github.com/JosephDavisC/Jam.AI)** – GPT-powered diabetes health assistant (UWB Hacks AI Hackathon project).  
 - 📝 **[Document-Cropper-OCR](https://github.com/JosephDavisC/Document-Cropper-OCR)** – A simple document cropper + OCR web app built with OpenCV, FastAPI, and Tesseract/EasyOCR.  
-- 🔎 **[ASR-Runner](https://github.com/JosephDavisC/ASR-Runner)** – Lightweight Attack Surface Reconnaissance runner in Go, wrapping Subfinder, HTTPX, and Katana.  
+- 🔎 **[ASR-Runner](https://github.com/JosephDavisC/ASR-Runner)** – Lightweight AI Attack Surface Reconnaissance runner in Go, Python, wrapping Subfinder, HTTPX, and Katana.  
 
 ---
 
