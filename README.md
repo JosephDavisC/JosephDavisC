@@ -32,8 +32,6 @@
 
 ---
 
----
-
 ### 🚀 Projects
 
 - 🌐 **[Portfolio-Website](https://github.com/JosephDavisC/Portfolio-Website)** – My personal portfolio website showcasing background, projects, and certifications (React, TypeScript, Tailwind, Framer Motion).  
@@ -43,12 +41,6 @@
 - 📝 **[Document-Cropper-OCR](https://github.com/JosephDavisC/Document-Cropper-OCR)** – A simple document cropper + OCR web app built with OpenCV, FastAPI, and Tesseract/EasyOCR.  
 - 🔎 **[ASR-Runner](https://github.com/JosephDavisC/ASR-Runner)** – Lightweight AI Attack Surface Reconnaissance runner in Go, Python, wrapping Subfinder, HTTPX, and Katana.  
 
----
-
-### 🏆 Leadership
-- 👨‍💻 **President – BC Tech Club** (2024-2025)  
-   - Organized workshops & hackathons (BCHacks 2024)  
-   - Mentored students in web dev & collaborative projects  
 ---
 
 ### 🛠️ Languages & Tools
