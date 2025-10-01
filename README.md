@@ -65,11 +65,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Joseph's GitHub stats](https://github-readme-stats-xi-liart-62.vercel.app/api?username=JosephDavisC&show_icons=true&theme=tokyonight&cache_seconds=64)  
-
----
-
 ### 📫 Let’s Connect!
 - <a href="https://linkedin.com/in/joseph-chamdani" target="_blank">LinkedIn</a>  
 - jchamd@uw.edu | joseph.chamdani@gmail.com
