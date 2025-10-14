@@ -65,6 +65,13 @@
 
 ---
 
+### 📊 GitHub Stats
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephdavisc&show_icons=true&hide_rank=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephdavisc&layout=compact&theme=tokyonight)
+
+---
+
 ### 📫 Let’s Connect!
 - <a href="https://linkedin.com/in/joseph-chamdani" target="_blank">LinkedIn</a>  
 - jchamd@uw.edu | joseph.chamdani@gmail.com
