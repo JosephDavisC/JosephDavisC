@@ -37,7 +37,7 @@
 - **[Portfolio-Website](https://github.com/JosephDavisC/Portfolio-Website)** – My personal portfolio website showcasing background, projects, and certifications (React, TypeScript, Tailwind, Framer Motion).  
 - **[Coffee-Shop](https://github.com/JosephDavisC/Coffee-Shop)** – A modern coffee shop app with Next.js 15, Supabase, and Stripe (order ahead, checkout, admin dashboard).  
 - **[Jam.AI](https://github.com/JosephDavisC/Jam.AI)** – GPT-powered diabetes health assistant (UWB Hacks AI Hackathon project).  
-- **[Document-Cropper-OCR](https://github.com/JosephDavisC/Document-Cropper-OCR)** – A simple document cropper + OCR web app built with OpenCV, FastAPI, and Tesseract/EasyOCR.  
+- **[IShowStream](https://github.com/JosephDavisC/streamsense)** – Real-time Twitch chat analysis platform powered by Google’s Agent Development Kit (ADK) and Gemini AI, deployed on Cloud Run.  
 - **[ASR-Runner](https://github.com/JosephDavisC/ASR-Runner)** – Lightweight AI Attack Surface Reconnaissance runner in Go, Python, wrapping Subfinder, HTTPX, and Katana.  
 - **[NVIDIA Garak](https://github.com/NVIDIA/garak)** – Contributed CLI filtering support and expanded test coverage to NVIDIA’s open-source AI red-teaming toolkit (merged [PR #1362](https://github.com/NVIDIA/garak/issues/1362)).
 
