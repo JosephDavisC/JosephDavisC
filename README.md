@@ -35,7 +35,7 @@
 ### 🚀 Highlighted Projects
 
 - **[Portfolio-Website](https://github.com/JosephDavisC/Portfolio-Website)** – My personal portfolio website showcasing background, projects, and certifications (React, TypeScript, Tailwind, Framer Motion).  
-- **[Coffee-Shop](https://github.com/JosephDavisC/Coffee-Shop)** – A modern coffee shop app with Next.js 15, Supabase, and Stripe (order ahead, checkout, admin dashboard).  
+- **[AI Transfer Evaluation Tool](https://github.com/JosephDavisC/AI-Transfer-Evaluation-Tool)** – Winner of the Anthropic Claude Hackathon, awarded for creating the top project that streamlines transfer evaluations for Washington community college students.
 - **[Jam.AI](https://github.com/JosephDavisC/Jam.AI)** – GPT-powered diabetes health assistant (UWB Hacks AI Hackathon project).  
 - **[IShowStream](https://github.com/JosephDavisC/streamsense)** – Real-time Twitch chat analysis platform powered by Google’s Agent Development Kit (ADK) and Gemini AI, deployed on Cloud Run.  
 - **[ASR-Runner](https://github.com/JosephDavisC/ASR-Runner)** – Lightweight AI Attack Surface Reconnaissance runner in Go, Python, wrapping Subfinder, HTTPX, and Katana.  
