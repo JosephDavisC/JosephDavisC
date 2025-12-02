@@ -24,7 +24,7 @@
 
 ---
 
-### 🌟 About Me
+### About Me
 - Junior at **University of Washington** (Informatics, Data Science focus)  
 - Passionate about **AI, Data Analytics, Full-Stack Development, and Cybersecurity**  
 - Originally from Jakarta, Indonesia 🇮🇩 → now in Seattle, WA 🇺🇸
@@ -32,7 +32,7 @@
 
 ---
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
 - **[Portfolio-Website](https://github.com/JosephDavisC/Portfolio-Website)** – My personal portfolio website showcasing background, projects, and certifications (React, TypeScript, Tailwind, Framer Motion).  
 - **[AI Transfer Evaluation Tool](https://github.com/JosephDavisC/AI-Transfer-Evaluation-Tool)** – Winner of the Anthropic Claude Hackathon, awarded for creating the top project that streamlines transfer evaluations for Washington community college students.
@@ -43,7 +43,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
@@ -65,13 +65,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Joseph's GitHub stats](https://github-readme-stats-xi-liart-62.vercel.app/api?username=josephdavisc&show_icons=true&hide_rank=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-xi-liart-62.vercel.app/api/top-langs/?username=josephdavisc&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Let’s Connect!
+### Let’s Connect!
 - <a href="https://linkedin.com/in/joseph-chamdani" target="_blank">LinkedIn</a>  
 - jchamd@uw.edu | joseph.chamdani@gmail.com
