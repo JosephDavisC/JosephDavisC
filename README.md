@@ -14,9 +14,6 @@
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JosephDavisC&color=blueviolet&style=for-the-badge)
-
-
 **Informatics @ University of Washington | AI Engineer @ Sector - CyberSecurity**  
 
 ---
