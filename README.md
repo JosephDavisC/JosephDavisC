@@ -16,7 +16,7 @@ Originally from Jakarta, Indonesia. Now in Seattle, WA.
 
 **What I'm up to:**
 - Building AI powered pen testing automation at [Sector](https://sector.co.id)
-- Studying Informatics (Data Science) at UW, graduating Spring 2027
+- Studying Informatics at UW, graduating Spring 2027
 - Won 1st place at the [UW Claude Hackathon 2025](https://devpost.com/software/ai-transfer-evaluation-tool) with AI Transfer Evaluation Tool
 - Contributed CLI filtering to [NVIDIA's Garak](https://github.com/NVIDIA/garak/pull/1362) AI red teaming toolkit
 
