@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Joseph Chamdani Banner" width="800"/>
+  <img src="assets/banner.png" alt="Joseph Chamdani Banner" width="100%"/>
 </p>
 
 <table>
