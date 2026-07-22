@@ -8,14 +8,14 @@
 
 ## Hey, I'm Joseph!
 
-**Informatics @ University of Washington** | **AI Engineer @ Sector Cyber Security**
+**Informatics @ University of Washington** | **AI Product Intern @ Whitespace Solution**
 
-I build things at the intersection of **AI, data, and full stack development**. Currently focused on AI automation for cybersecurity workflows, and building tools that solve real problems.
+I build things at the intersection of **AI, data, and full stack development**. Currently focused on AI product and building tools that solve real problems.
 
 Originally from Jakarta, Indonesia. Now in Seattle, WA.
 
 **What I'm up to:**
-- Building AI powered pen testing automation at [Sector](https://sector.co.id)
+- Building AI product at [Whitespace Solution](https://whitespace.id)
 - Studying Informatics at UW, graduating Spring 2027
 - Won 1st place at the [UW Claude Hackathon 2025](https://devpost.com/software/ai-transfer-evaluation-tool) with AI Transfer Evaluation Tool
 - Contributed CLI filtering to [NVIDIA's Garak](https://github.com/NVIDIA/garak/pull/1362) AI red teaming toolkit
