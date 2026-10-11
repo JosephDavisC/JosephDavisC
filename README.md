@@ -45,12 +45,12 @@ Originally from Jakarta, Indonesia. Now in Seattle, WA.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**AI Transfer Evaluation Tool**](https://github.com/JosephDavisC/AI-Transfer-Evaluation-Tool) | 1st Place, UW Claude Hackathon. Parses WA community college transcripts and maps courses to UW equivalents | Next.js, TypeScript, Claude API |
-| [**Portfolio Website**](https://github.com/JosephDavisC/Portfolio-Website) | Personal portfolio with neobrutalist design, dual theme, custom cursors | React, TypeScript, Tailwind, Framer Motion |
-| [**IShowStream**](https://github.com/JosephDavisC/streamsense) | Real time Twitch chat analytics with 5 AI agents for spam detection and engagement prediction | Google ADK, Gemini AI, Cloud Run |
+| [**AI Transfer Evaluation Tool**](https://github.com/JosephDavisC/AI-Transfer-Evaluation-Tool) | 1st Place, UW Claude Hackathon. Parses WA community college transcripts and maps courses to UW equivalents. [Live demo](https://transfer.joechamdani.cloud) | Next.js, TypeScript, Claude API |
+| [**Portfolio Website**](https://github.com/JosephDavisC/Portfolio-Website) | Personal portfolio with neobrutalist design, dual theme, custom cursors. [Live site](https://joechamdani.com) | React, TypeScript, Tailwind, Framer Motion |
+| [**IShowStream**](https://github.com/JosephDavisC/streamsense) | Real time Twitch chat analytics with 5 AI agents for spam detection and engagement prediction. [Live demo](https://ishowstream-234sus25va-uc.a.run.app) | Google ADK, Gemini AI, Cloud Run |
 | [**Personal Dashboard**](https://github.com/JosephDavisC/Personal-Dashboard) | Open source, self-hosted dashboard for daily life: calendar, tasks, shifts and earnings, job applications, diary. [Live demo](https://dashboard-demo.joechamdani.com) | Next.js, TypeScript, Prisma, PostgreSQL, Docker |
-| [**Jam.AI**](https://github.com/JosephDavisC/Jam.AI) | GPT powered diabetes health assistant with nutrition advice and blood sugar tracking | Flask, GPT 3.5, JavaScript |
-| [**NVIDIA Garak**](https://github.com/NVIDIA/garak/pull/1362) | Contributed CLI filtering support and expanded test coverage (merged PR) | Python, Open Source |
+| [**Jam.AI**](https://github.com/JosephDavisC/Jam.AI) | GPT powered diabetes health assistant with nutrition advice and blood sugar tracking. [Devpost](https://devpost.com/software/jam-ai) | Flask, GPT 3.5, JavaScript |
+| [**NVIDIA Garak**](https://github.com/NVIDIA/garak/pull/1362) | Contributed CLI filtering support and expanded test coverage ([merged PR](https://github.com/NVIDIA/garak/pull/1362)) | Python, Open Source |
 
 ---
 
